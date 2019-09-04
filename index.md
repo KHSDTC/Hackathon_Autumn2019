@@ -14,7 +14,7 @@ We aim to provide a relaxed environment for people to engage, discuss and exchan
 
 ## Theme of the evening
 
-The Hackathon session will be focusing Data Science approaches that can be applied to tackle biological problems. We will focus on **Data science** and **Machine Learning**.
+The Hackathon session will be focusing Data Science approaches that can be applied to tackle biological problems. We will focus on **Data processing** and **Machine Learning**.
 
 Our task will consists of investigating a publicly available dataset, selecting statistical models and setting up an analysis pipeline.
 
