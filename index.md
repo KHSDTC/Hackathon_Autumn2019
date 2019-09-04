@@ -4,9 +4,9 @@ layout: default
 
 # King's College London Health Science DTC
 
-# Data Hackathon Spring Session 2019
+# Data Hackathon Autumn Session 2019
 
-Everyone is invited to a second King's College London HSDTC Hackathon session. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
+Everyone is invited to a third installment of King's College London HSDTC Hackathon sessions. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
 
 Our idea is to bring researchers from various backgrounds for an evening of computational biology problem solving.
 
@@ -14,7 +14,7 @@ We aim to provide a relaxed environment for people to engage, discuss and exchan
 
 ## Theme of the evening
 
-The Hackathon session will be focusing Data Science approaches that can be applied to tackle biological problems. We will focus on three major themes, such as **Data Processing**, **Analysis Pipelines** and **Machine Learning**.
+The Hackathon session will be focusing Data Science approaches that can be applied to tackle biological problems. We will focus on **Data science** and **Machine Learning**.
 
 Our task will consists of investigating a publicly available dataset, selecting statistical models and setting up an analysis pipeline.
 
@@ -50,9 +50,9 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 
 ## When and Where?
 
-- __Date__: 8th of April, 2019.
-- __Where__: Waterloo Campus, James Clerk Maxwell Building B.16.
-- __When__: 5-9 PM.
+- __Date__: TBC, November 2019
+- __Where__: TBC
+- __When__: TBC
 
 The doors are open at 5PM  and everyone is wellcome to come and network with fellow coders! The Hackathon session will start at 5:30PM and during the evening we will have food and drinks provided by HSDTC.
 
