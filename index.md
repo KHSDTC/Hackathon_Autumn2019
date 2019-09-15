@@ -6,7 +6,7 @@ layout: default
 
 # Data Hackathon Autumn Session 2019
 
-Everyone is invited to a third installment of King's College London HSDTC Hackathon sessions. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
+Everyone is invited to a third instalment of King's College London HSDTC Hackathon sessions. The event is intended for everyone with interest in computational and quantitative methods in biology and how such methods can be used to tackle unique challenges of interest to our community.
 
 Our idea is to bring researchers from various backgrounds for an evening of computational biology problem solving.
 
@@ -14,13 +14,13 @@ We aim to provide a relaxed environment for people to engage, discuss and exchan
 
 ## Theme of the evening
 
-The Hackathon session will be focusing Data Science approaches that can be applied to tackle biological problems. We will focus on **Data processing** and **Machine Learning**.
+The Hackathon session will be focusing **Data Science approaches**, such as **Data processing** and **Machine Learning**, that can be applied to tackle biological problems.
 
 Our task will consists of investigating a publicly available dataset, selecting statistical models and setting up an analysis pipeline.
 
 ## Coding language of the evening
 
-This session will primarly focus on Python-specific approaches to Hackathon challenges. However, you are welcome to use any language of your choice. We are always looking to improving ourselves!
+This session will primarily focus on Python-specific approaches for solving Hackathon challenges. However, you are welcome to use any language of your choice. We are always looking to improving ourselves!
 
 ## For whom is this Hackathon intended?
 
@@ -32,7 +32,7 @@ We will divide ourselves in groups of 4-5 people and attempt in solving the give
 
 ## Hackathon challenges
 
-The Hackathon organisers will provide you with a dataset and a set of tasks to tackle during the evening. There will be a group of experienced coders and bioinformaticians to help you out with the challenge. 
+The Hackathon organisers will provide you with a dataset and a set of tasks to tackle during the evening. There will be a group of experienced coders and bioinformaticians to help you out with the challenge.
 
 ## What do you need to bring
 
@@ -50,11 +50,11 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 
 ## When and Where?
 
-- __Date__: TBC, November 2019
-- __Where__: TBC
-- __When__: TBC
+- __Date__: 11th of November 2019
+- __Where__: G552, Waterloo Bridge Wing, Waterloo Campus
+- __When__: 5PM - 9PM
 
-The doors are open at 5PM  and everyone is wellcome to come and network with fellow coders! The Hackathon session will start at 5:30PM and during the evening we will have food and drinks provided by HSDTC.
+The doors are open at 5PM  and everyone is welcome to come and network with fellow coders! The Hackathon session will start at 5:30PM and during the evening we will have food and drinks provided by HSDTC.
 
 ## Registration
 
