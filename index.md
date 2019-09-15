@@ -14,7 +14,7 @@ We aim to provide a relaxed environment for people to engage, discuss and exchan
 
 ## Theme of the evening
 
-The Hackathon session will be focusing **Data Science approaches**, such as **Data processing** and **Machine Learning**, that can be applied to tackle biological problems.
+The Hackathon session will be focusing on **Data Science** approaches, such as **Data Processing** and **Machine Learning**, that can be applied to tackle biological problems.
 
 Our task will consists of investigating a publicly available dataset, selecting statistical models and setting up an analysis pipeline.
 
@@ -42,7 +42,7 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 
 - Working Python environment (3.x) that could be provided by downloading [Anaconda](https://www.anaconda.com/distribution/).
 - Working [Jupyter Notebook](https://jupyter.org/index.html) that is [already shipped using Anaconda](https://jupyter.org/install).
-- Code editor of your liking, for instance [Atom](https://atom.io/), [PyCharm](https://www.jetbrains.com/pycharm/download/) or [spyder](https://www.spyder-ide.org/).
+- Code editor of your liking, for instance [PyCharm](https://www.jetbrains.com/pycharm/download/) or [spyder](https://www.spyder-ide.org/).
 
 ### For R
 
@@ -50,7 +50,7 @@ The Hackathon organisers will provide you with a dataset and a set of tasks to t
 
 ## When and Where?
 
-- __Date__: 11th of November 2019
+- __Date__: 11th of November, 2019
 - __Where__: G552, Waterloo Bridge Wing, Waterloo Campus
 - __When__: 5PM - 9PM
 
